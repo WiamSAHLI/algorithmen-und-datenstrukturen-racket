@@ -51,9 +51,6 @@ kurz code:
     (+ (* rest (* 10 place))(* d place) last)))
 (insert-digit-at 13456 2 7);134956
 
-;Aufgabe 1 blatt 6:
-(define(zaehlen start ende n)
-  (define(iter start ende 
 
 
 
